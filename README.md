@@ -21,6 +21,9 @@ We created this using a sine wave where the amplitude changed based on time.
 
 2. Spinning Flower
 
+<p align="center">
+  <img src="https://github.com/thumun/lab01-toolbox-functions/blob/main/spin.gif?raw=true"/>
+</p>
 Red version: https://www.shadertoy.com/view/MXscDr
 
 We created this using a triangle wave, and we caused it to rotate by multiplying it by the sine of time. 
@@ -48,6 +51,9 @@ This pulse has a fancy pattern.
 
 6. Spinning Flower (with a cool pattern)
 
+<p align="center">
+  <img src="https://github.com/thumun/lab01-toolbox-functions/blob/main/cool_spin.gif?raw=true"/>
+</p>
 Link: https://www.shadertoy.com/view/43XcDH
 
 # Submission
