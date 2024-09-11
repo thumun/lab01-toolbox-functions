@@ -24,6 +24,7 @@ We created this using a sine wave where the amplitude changed based on time.
 </p>
 
 Brownie Points version: https://www.shadertoy.com/view/M3fyDH
+
 (color changes from the center) 
 
 2. Spinning Flower
