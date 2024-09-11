@@ -19,6 +19,13 @@ Red version: https://www.shadertoy.com/view/lXlyDn
 
 We created this using a sine wave where the amplitude changed based on time. 
 
+<p>
+  <img src="https://github.com/thumun/lab01-toolbox-functions/blob/main/SpinningFlowerColorChange.gif?raw=true" />
+</p>
+
+Brownie Points version: https://www.shadertoy.com/view/M3fyDH
+(color changes from the center) 
+
 2. Spinning Flower
 
 <p align="center">
