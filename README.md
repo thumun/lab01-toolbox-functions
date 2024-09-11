@@ -11,6 +11,10 @@ Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shade
 
 1. Pulsing Flower
 
+<p align="center">
+  <img src="https://github.com/thumun/lab01-toolbox-functions/blob/main/pulse.gif?raw=true"/>
+</p>
+
 !["Pulse"]("https://github.com/thumun/lab01-toolbox-functions/blob/main/pulse.gif?raw=true")
 
 Red version: https://www.shadertoy.com/view/lXlyDn 
