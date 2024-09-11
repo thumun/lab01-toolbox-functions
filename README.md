@@ -11,6 +11,8 @@ Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shade
 
 1. Pulsing Flower
 
+!["Pulse"]("https://github.com/thumun/lab01-toolbox-functions/blob/main/pulse.gif?raw=true")
+
 Red version: https://www.shadertoy.com/view/lXlyDn 
 
 We created this using a sine wave where the amplitude changed based on time. 
@@ -23,15 +25,21 @@ We created this using a triangle wave, and we caused it to rotate by multiplying
 
 3. Sparkles!
 
+!["sparkle_glitch"]("https://github.com/thumun/lab01-toolbox-functions/blob/main/glitch_sparkle.gif?raw=true")
+!["sparkle_red"]("https://github.com/thumun/lab01-toolbox-functions/blob/main/red_sparkle.gif?raw=true")
+
 Link: https://www.shadertoy.com/view/4XfcWH
 
 We created this using two overlapping sine waves and multiplied another sine wave to them. We also changed the colors to make it more magical. 
 
-4. Pulse (with a fun color pattern)
-
+4. Noir Pulse
+   
+!["Pulse"]("https://github.com/thumun/lab01-toolbox-functions/blob/main/noir_pulse.gif?raw=true")
 Link: https://www.shadertoy.com/view/43fyDH
 
-5. Spinning Flower (with a cool pattern)
+This pulse has a fancy pattern. 
+
+6. Spinning Flower (with a cool pattern)
 
 Link: https://www.shadertoy.com/view/43XcDH
 
