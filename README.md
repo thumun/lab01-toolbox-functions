@@ -19,7 +19,7 @@ Red version: https://www.shadertoy.com/view/lXlyDn
 
 We created this using a sine wave where the amplitude changed based on time. 
 
-<p>
+<p align="center">
   <img src="https://github.com/thumun/lab01-toolbox-functions/blob/main/SpinningFlowerColorChange.gif?raw=true" />
 </p>
 
